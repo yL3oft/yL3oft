@@ -1,6 +1,6 @@
-# 👋 Hey, I’m yL3oft  
+# 👋 Hey, I’m yL3oft [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yl3oft)
 
-💻 Minecraft Plugin Developer | Java Enthusiast  
+💻 Minecraft Plugin Developer | Java Enthusiast
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
