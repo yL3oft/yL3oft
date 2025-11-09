@@ -16,7 +16,7 @@
 🔹 [**zHomes**](https://github.com/yL3oft/zHomes) – Simple & customizable homes system  
 🔹 [**zTPA**](https://github.com/yL3oft/zTPA) – Smooth teleport request system
 
- More projects: https://zplugins.yleoft.me/
+ More projects: https://plugins.yleoft.me/
 
 ---
 
