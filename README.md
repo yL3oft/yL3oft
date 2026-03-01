@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![yL3oft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yL3oft&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yL3oft&layout=compact&theme=tokyonight)
+![Stats](./profile/stats.svg)<br/>
+![Top Languages](./profile/top-langs.svg)
 
 ---
