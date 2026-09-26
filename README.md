@@ -14,6 +14,7 @@
 ## 📦 Featured Projects
 🔹 [**zAPI**](https://github.com/yL3oft/zAPI) – Utility API for Minecraft plugins  
 🔹 [**zHomes**](https://github.com/yL3oft/zHomes) – Simple & customizable homes system
+🔹 [**Create: FTB Chunks Compat**](https://github.com/yL3oft/CreateFTBCompat) – FTB Chunks x Create compatibility
 
  More projects: https://plugins.yleoft.me/
 
