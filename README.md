@@ -16,7 +16,7 @@
 🔹 [**zHomes**](https://github.com/yL3oft/zHomes) – Simple & customizable homes system   
 🔹 [**Create: FTB Chunks Compat**](https://github.com/yL3oft/CreateFTBCompat) – FTB Chunks x Create compatibility
 
- More projects: https://plugins.yleoft.me/
+ More projects: [https://plugins.yleoft.me/](https://projects.yleoft.me/)
 
 ---
 
